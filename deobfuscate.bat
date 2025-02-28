@@ -46,6 +46,4 @@ java -jar proguard.jar @%SCRIPTFILE% > %OUTFOLDER%\%~n1.log 2>&1
 echo finished
 echo.
 
-pause
-
 del /q %SCRIPTFILE%
