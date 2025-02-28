@@ -21,3 +21,4 @@ jobs:
           name: CiTyNikitaMobile
           path: |
                      ./CiTyNikitaMobile
+                     C:\Users\runneradmin\.m2\settings.xml
