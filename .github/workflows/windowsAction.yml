@@ -19,6 +19,6 @@ jobs:
     - uses: actions/upload-artifact@v4
       with:
           name: CiTyNikitaMobile
-          path: |
-                     ./CiTyNikitaMobile
-                     C:\Users\runneradmin\.m2\settings.xml
+          path: |  
+                C:/Users/runneradmin/.m2/settings.xml
+                CiTyNikitaMobile/*
