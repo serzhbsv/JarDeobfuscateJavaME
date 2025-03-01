@@ -7,7 +7,7 @@ on:
     branches:
 
 jobs:
-  default-sdk-version:
+   Run_PGD_forWindows_Os:
     runs-on: windows-latest
     steps:
     - uses: actions/checkout@v4
